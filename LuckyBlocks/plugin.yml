@@ -1,0 +1,8 @@
+name: LuckyBlock
+main: com.chickenstyle.luckyblock.Main
+description: adds LuckyBlocks
+version: 1.0
+commands:
+  luckyblock:
+    aliases: [lb]
+    description: LuckyBlock Command
